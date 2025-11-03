@@ -1,0 +1,10 @@
+C:\Users\tranl\Downloads\Phan4ADO.NET_\tranleanhdai_1150080007_BTtuan8\bin\Debug\tranleanhdai_1150080007_BTtuan8.exe.config
+C:\Users\tranl\Downloads\Phan4ADO.NET_\tranleanhdai_1150080007_BTtuan8\bin\Debug\tranleanhdai_1150080007_BTtuan8.exe
+C:\Users\tranl\Downloads\Phan4ADO.NET_\tranleanhdai_1150080007_BTtuan8\bin\Debug\tranleanhdai_1150080007_BTtuan8.pdb
+C:\Users\tranl\Downloads\Phan4ADO.NET_\tranleanhdai_1150080007_BTtuan8\obj\Debug\tranleanhdai_1150080007_BTtuan8.csproj.AssemblyReference.cache
+C:\Users\tranl\Downloads\Phan4ADO.NET_\tranleanhdai_1150080007_BTtuan8\obj\Debug\tranleanhdai_1150080007_BTtuan8.Form1.resources
+C:\Users\tranl\Downloads\Phan4ADO.NET_\tranleanhdai_1150080007_BTtuan8\obj\Debug\tranleanhdai_1150080007_BTtuan8.Properties.Resources.resources
+C:\Users\tranl\Downloads\Phan4ADO.NET_\tranleanhdai_1150080007_BTtuan8\obj\Debug\tranleanhdai_1150080007_BTtuan8.csproj.GenerateResource.cache
+C:\Users\tranl\Downloads\Phan4ADO.NET_\tranleanhdai_1150080007_BTtuan8\obj\Debug\tranleanhdai_1150080007_BTtuan8.csproj.CoreCompileInputs.cache
+C:\Users\tranl\Downloads\Phan4ADO.NET_\tranleanhdai_1150080007_BTtuan8\obj\Debug\tranleanhdai_1150080007_BTtuan8.exe
+C:\Users\tranl\Downloads\Phan4ADO.NET_\tranleanhdai_1150080007_BTtuan8\obj\Debug\tranleanhdai_1150080007_BTtuan8.pdb
